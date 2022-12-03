@@ -1,6 +1,6 @@
 ### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
-    1.START
+    1.Inicio
     2.ir  L cocina
     3. abrir el refri
     4. sacar la leche y cerrar refri
@@ -26,12 +26,13 @@
     24.tomar cerreal con leche con la cuchara
     25.poner la cuchara con cereal y leche en la boca
     26. dar bocado.
-    27.END
+    27.Fin
 
 
 ### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
-    TU RESPUESTA AQUI
+    1.Inicio
+    2. Num.1,Num.2,Num.3,RESULTADO, REPETIR PROCESO
 
 
 
