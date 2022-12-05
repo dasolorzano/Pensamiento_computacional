@@ -33,7 +33,14 @@
 
     1.Inicio
     2.(INt)Fecha-nacimiento,(Int)Año-actual,(Int)Edad,(Str)nombre
-    3.Asignar
+    3.Asignar (Int)Año-actual=2022
+    4.Asignar (INt)Fecha-nacimiento
+    5.Mostrar ("Escribe tu fecha Naciste") 
+    6.Asignar (Str)nombre
+    7.Mostrar ("Escribe tu nombre")
+    8.Asignar Edad = Año-actual - Fecha-nacimiento
+    9.Mostrar Edad
+    10.Fin
    
 
 
