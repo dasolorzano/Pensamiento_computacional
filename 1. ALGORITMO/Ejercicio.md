@@ -32,9 +32,9 @@
 ### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
     1.Inicio
-    2.(INt)Fecha-nacimiento,(Int)Año-actual,(Int)Edad,(Str)nombre
-    3.(Int)Año-actual=2022
-    4.(INt)Fecha-nacimiento
+    2.Fecha-nacimiento,Año-actual,Edad,nombre
+    3.(int)Año-actual=2022
+    4.(int)Fecha-nacimiento
     5.Mostrar ("Escribe tu fecha Naciste") 
     6.(Str)nombre
     7.Mostrar ("Escribe tu nombre")
@@ -47,4 +47,15 @@
 
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
-    TU RESPUESTA AQUI
+    1.Inicio
+    2.$actual,$anterior,incremento 
+    3.$actual = (float)
+    4. Mostrar ("cuale es el precio acutual")
+    5.$anterior = (float)
+    6.Mostrar (cuales es el precio anterior")
+    7.incremento = ($actual - $anterior)* $anterior
+    8.Mostrar Incremento
+    9.% = (Incremento * $anterior)*100
+    10.Mostrar %
+    11.Fin
+    
