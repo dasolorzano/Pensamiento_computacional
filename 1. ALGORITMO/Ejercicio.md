@@ -48,14 +48,14 @@
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
     1.Inicio
-    2.$actual,$anterior,incremento 
+    2.$actual,$anterior,incremento
     3.$actual = (float)
     4. Mostrar ("cuale es el precio acutual")
     5.$anterior = (float)
     6.Mostrar (cuales es el precio anterior")
-    7.incremento = ($actual - $anterior)* $anterior
-    8.Mostrar Incremento
-    9.% = (Incremento * $anterior)*100
+    7.incremento = ($actual - $anterior)*100
+    8.Mostrar incremento
+    9.% = (incremento - 100) 
     10.Mostrar %
     11.Fin
     
