@@ -1,0 +1,26 @@
+Ejercicio que indica si eres mayor o menor de edad en un rango de 0 a 120 años.
+#Algoritmo
+
+INICIO
+   
+FIN
+
+#Diagrama de Flujo
+![image]( )
+
+#Seudo_codigo
+
+Algoritmo de_acuerdo_a_tu_edad_eres
+	edad <- 0
+	Escribir 'Ingresa tu edad'
+	Leer edad
+	Si edad>=0 Y edad<=120 Entonces
+		Si edad>=18 Entonces
+			Escribir 'Eres mayor de edad'
+		SiNo
+			Escribir 'Eres menorde edad'
+		FinSi
+	SiNo
+		Escribir 'error en la edad, reingresa tu edad'
+	FinSi
+FinAlgoritmo       
