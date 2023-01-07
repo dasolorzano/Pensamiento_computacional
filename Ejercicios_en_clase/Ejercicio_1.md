@@ -1,5 +1,17 @@
 Ejercicio que calcula el tiempo que tardariamos en leer los nombres de determinado numero de poblacion.
 # Algoritmo
+
+   1_INICIO
+   2_Declaracion(poblacion_float,tienpo_a_leer=2,segundos_float,minutos_float,horas_float,dias_float,meses_float,años_float)
+   3_"Ingresa el número de población que quieres evaluar"
+   4_Asignar(poblacion)
+   5_segundos=(poblacion*tiempo_a_leer)
+   6_minutos=(segundos/60)
+   7_horas=(minutos/60)
+   8_dias=(horas/24)
+   9_meses=(dias/30)
+   10_años=(meses/12)
+   11_ Mostrar("te tardarías",años,meses,dias,"en leer los nombres de los habitantes del sur manera")
 # Diagrama de Flujo
 ![image](https://user-images.githubusercontent.com/119319898/208264017-0250b925-08c9-4a4d-b749-aa7b20080048.png)
 
