@@ -22,6 +22,8 @@ Ejercicio que calcula el tiempo que tardariamos en leer los nombres de determina
    10.años=(meses/12)
 
    11.Mostrar("te tardarías",años,meses,dias,"en leer los nombres de los habitantes del planeta")
+ 
+   12.FIN
 
 # Diagrama de Flujo
 ![image](https://user-images.githubusercontent.com/119319898/208264017-0250b925-08c9-4a4d-b749-aa7b20080048.png)
