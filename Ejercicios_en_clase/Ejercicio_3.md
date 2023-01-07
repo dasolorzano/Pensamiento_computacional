@@ -2,7 +2,8 @@ Ejercicio que indica si un numero es pa o impar.
 # Algoritmo
 
 # Diagrama de Flujo
-![image]( )
+![image](https://user-images.githubusercontent.com/119319898/211168800-d7e10ff5-ed60-4c6c-84aa-685ca9908ba4.png)
+ 
 
 # Seudo_codigo
 
