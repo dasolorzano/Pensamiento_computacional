@@ -4,7 +4,7 @@ Ejercicio que indica si eres mayor o menor de edad en un rango de 0 a 120 años.
 # Diagrama de Flujo
 ![image]( )
 
-#Seudo_codigo
+# Seudo_codigo
 
 Algoritmo de_acuerdo_a_tu_edad_eres
 	edad <- 0
