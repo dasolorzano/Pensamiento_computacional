@@ -15,7 +15,7 @@ Ejercicio que calcula el tiempo que tardariamos en leer los nombres de determina
 
    7.horas=(minutos/60)
 
-   8_dias=(horas/24)
+   8.dias=(horas/24)
 
    9.meses=(dias/30)
 
