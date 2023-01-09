@@ -1,6 +1,22 @@
-Ejercicio que indica si un numero es pa o impar.
+Ejercicio que indica si un numero es par o impar.
 # Algoritmo
 
+INICIO
+
+ Declaracion(numero(int))
+
+ MOSTRAR "Ingresa un numero entero"
+ 
+ Asignar numero
+ 
+ Si MOD=0 ENTONCES
+  MOSTRAR "numero par"
+ SiNO 
+  MOSTRAR "numero impar"
+
+FIN
+ 
+ 
 # Diagrama de Flujo
 ![image](https://user-images.githubusercontent.com/119319898/211168800-d7e10ff5-ed60-4c6c-84aa-685ca9908ba4.png)
  
