@@ -3,7 +3,7 @@ Ejercicio que indica si un numero es par o impar.
 
 INICIO
 
- Declaracion(numero(int))
+ Declaracion(numero(int)); NUmero=0
 
  MOSTRAR "Ingresa un numero entero"
  
