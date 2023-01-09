@@ -5,7 +5,7 @@ Ejercicio que calcula el tiempo que tardariamos en leer los nombres de determina
 
    2.Declaracion(poblacion_float,tienpo_a_leer=2,segundos_float,minutos_float,horas_float,dias_float,meses_float,años_float)
    
-   3."Ingresa el número de población que quieres evaluar"
+   3.MOSTRAR "Ingresa el número de población que quieres evaluar"
    
    4.Asignar(poblacion)
 
