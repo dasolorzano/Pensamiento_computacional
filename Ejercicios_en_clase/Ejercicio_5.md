@@ -15,28 +15,29 @@ FIN
 
 # Seudo_codigo
 
-Algoritmo DiaDeLaSemana
-	Escribir Sin Saltar "Ingresa el valor de dia de la semana";
-	Leer dia_de_la_semana;
-	si dia_de_la_semana=1 Entonces
+      Algoritmo DiaDeLaSemana
+	  Escribir Sin Saltar "Ingresa el valor de dia de la semana";
+	   Leer dia_de_la_semana;
+	   si dia_de_la_semana=1 Entonces
 		Escribir  "Lunes"
-	FinSi
-	si dia_de_la_semana=2 Entonces
+	  FinSi
+	  si dia_de_la_semana=2 Entonces
 		Escribir  "Martes"
-	FinSi
-	si dia_de_la_semana=3 Entonces
+	  FinSi
+	  si dia_de_la_semana=3 Entonces
 		Escribir  "Miercoles"
-	FinSi
-	si dia_de_la_semana=4 Entonces
+	  FinSi
+	  si dia_de_la_semana=4 Entonces
 		Escribir  "Jueves"
-	FinSi
-	si dia_de_la_semana=5 Entonces
+	  FinSi
+	  si dia_de_la_semana=5 Entonces
 		Escribir  "Viernes"
-	FinSi
-	si dia_de_la_semana=6 Entonces
-		Escribir  "Sabado"
-	FinSi
-	si dia_de_la_semana=7 Entonces
+	  FinSi
+	  si dia_de_la_semana=6 Entonces
+	  	Escribir  "Sabado"
+	  FinSi
+	  si dia_de_la_semana=7 Entonces
 		Escribir  "Domingo"
-	FinSi
-FinAlgoritmo
+	  FinSi
+      FinAlgoritmo
+
