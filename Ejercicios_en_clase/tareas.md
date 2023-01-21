@@ -1,3 +1,30 @@
+costo de lapices 
+
+
+
+
+
+Algoritmo costo_total_lapices
+	cantidad_lapices<-0
+	costo <-0
+	precio_a_pagar<-0
+	Escribir " ingresa el numero de cada lapices "
+	leer cantidad_de_lapices;
+	Si cantidad_de_lapices >= 1000 Entonces
+		costo<-85
+	SiNo
+		costo<-90
+	Fin Si
+	precio_a_pagar<-costo* cantidad_de_lapices;
+	Escribir " valor de costo ", costo;
+	Escribir " valor de pago ", precio_a_pagar;
+FinAlgoritmo
+
+
+
+
+
+
 suma de numeros 
 
 Algoritmo sin_titulo
