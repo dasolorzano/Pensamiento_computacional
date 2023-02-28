@@ -1,4 +1,4 @@
-Ejercicio que seleccion_de_actividad
+Seleccion_de_actividad
 # Algoritmo
 
  INICIO
