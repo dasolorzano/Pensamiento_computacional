@@ -1,5 +1,5 @@
 
- Indicar_el_dia_de_la_semana_que_correspond_el_numero 
+ Indicar_el_dia_de_la_semana_que_corresponde_el_numero 
 # Algoritmo
 
 INICIO
