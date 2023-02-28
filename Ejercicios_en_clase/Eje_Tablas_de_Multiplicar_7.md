@@ -1,4 +1,4 @@
-Ejercicio que Tablas_de_Multiplicar
+Tablas_de_Multiplicar
 # Algoritmo
 
  INICIO
