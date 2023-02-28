@@ -1,5 +1,5 @@
 
-Ejercicio que al ingrecar un número indica el dia de la semana al que corresponde. 
+ Indicar_el_dia_de_la_semana_que_correspond_el_numero 
 # Algoritmo
 
 INICIO
